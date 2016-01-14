@@ -1,0 +1,4 @@
+game_time = 50332
+time_of_day = 7490
+world_time = 56
+EnvArgsEnd
